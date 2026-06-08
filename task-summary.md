@@ -1,12 +1,12 @@
-#Project Title
+# Project Title
 
 AI Website Copy Generator for Local Businesses
 
-#Objective
+# Objective
 
 To create a tool that generates professional website copy for local businesses using AI-powered prompts.
 
-#Features
+# Features
 
 Business information input
 
@@ -18,7 +18,7 @@ Call-to-action content
 
 Modern and responsive interface
 
-#Tools Used
+# Tools Used
 
 Lovable
 
@@ -26,9 +26,10 @@ ChatGPT
 
 GitHub
 
-#Outcome
+# Outcome
 
 Successfully designed and published a website copy generator prototype for a coffee shop business, demonstrating prompt engineering and AI-assisted content creation.
 
-#Live Demo
+# Live Demo
+
 https://bean-haven-copy-generator.lovable.app
